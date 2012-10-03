@@ -1,0 +1,114 @@
+DESIGN @corrector
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @corrector
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN @corrector
+VIEW symbol.sb
+GRAPHIC 94,0 14 0 
+DESIGN @corrector
+VIEW symbol.sb
+GRAPHIC 89,0 15 0 
+DESIGN @corrector
+VIEW symbol.sb
+GRAPHIC 99,0 16 0 
+DESIGN @corrector
+VIEW symbol.sb
+GRAPHIC 104,0 17 0 
+DESIGN @corrector
+VIEW symbol.sb
+GRAPHIC 173,0 18 0 
+DESIGN @corrector
+VIEW symbol.sb
+GRAPHIC 168,0 19 0 
+DESIGN @corrector
+VIEW symbol.sb
+GRAPHIC 1,0 22 0 
+DESIGN @corrector
+VIEW symbol.sb
+GRAPHIC 1,0 23 0 
+DESIGN @corrector
+VIEW struct.bd
+NO_GRAPHIC 26
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 42,0 35 0 
+DESIGN @corrector
+VIEW struct.bd
+NO_GRAPHIC 39
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 0,0 41 2 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 1252,0 46 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 1258,0 47 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 1381,0 48 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 867,0 49 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 1003,0 50 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 1009,0 51 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 1306,0 52 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 1375,0 53 0 
+DESIGN @corrector
+VIEW struct.bd
+NO_GRAPHIC 54
+DESIGN @corrector
+VIEW struct.bd
+NO_GRAPHIC 55
+DESIGN @corrector
+VIEW struct.bd
+NO_GRAPHIC 56
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 813,0 58 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 931,0 61 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 1061,0 64 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 1085,0 67 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 968,0 70 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 992,0 73 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 1140,0 76 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 1228,0 79 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 1282,0 82 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 858,0 85 0 
+DESIGN @corrector
+VIEW struct.bd
+GRAPHIC 1366,0 88 0 
+DESIGN @corrector
+VIEW struct.bd
+NO_GRAPHIC 91
+DESIGN @corrector
+VIEW struct.bd
+NO_GRAPHIC 94

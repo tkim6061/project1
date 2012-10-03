@@ -1,0 +1,179 @@
+DESIGN @summing_@module
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @summing_@module
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN @summing_@module
+VIEW symbol.sb
+GRAPHIC 156,0 14 0 
+DESIGN @summing_@module
+VIEW symbol.sb
+GRAPHIC 161,0 15 0 
+DESIGN @summing_@module
+VIEW symbol.sb
+GRAPHIC 166,0 16 0 
+DESIGN @summing_@module
+VIEW symbol.sb
+GRAPHIC 171,0 17 0 
+DESIGN @summing_@module
+VIEW symbol.sb
+GRAPHIC 186,0 18 0 
+DESIGN @summing_@module
+VIEW symbol.sb
+GRAPHIC 181,0 19 0 
+DESIGN @summing_@module
+VIEW symbol.sb
+GRAPHIC 176,0 20 0 
+DESIGN @summing_@module
+VIEW symbol.sb
+GRAPHIC 1,0 23 0 
+DESIGN @summing_@module
+VIEW symbol.sb
+GRAPHIC 1,0 24 0 
+DESIGN @summing_@module
+VIEW struct.bd
+NO_GRAPHIC 27
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 42,0 36 0 
+DESIGN @summing_@module
+VIEW struct.bd
+NO_GRAPHIC 39
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 0,0 42 2 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 699,0 47 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 389,0 48 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 395,0 49 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 613,0 50 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 377,0 51 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 383,0 52 0 
+DESIGN @summing_@module
+VIEW struct.bd
+NO_GRAPHIC 53
+DESIGN @summing_@module
+VIEW struct.bd
+NO_GRAPHIC 54
+LIBRARY LAB3
+DESIGN @f@a
+VIEW struct
+GRAPHIC 112,0 56 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 101,0 58 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 96,0 59 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 91,0 60 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 111,0 61 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 106,0 62 0 
+LIBRARY project1_lib
+DESIGN @summing_@module
+VIEW struct.bd
+NO_GRAPHIC 65
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 112,0 68 0 
+DESIGN @summing_@module
+VIEW struct.bd
+NO_GRAPHIC 71
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 181,0 73 0 
+DESIGN @summing_@module
+VIEW struct.bd
+NO_GRAPHIC 76
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 112,0 78 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 545,0 80 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 553,0 81 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 701,0 82 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 397,0 83 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 379,0 84 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 142,0 86 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 561,0 88 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 569,0 89 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 701,0 90 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 391,0 91 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 385,0 92 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 299,0 94 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 397,0 96 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 391,0 97 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 615,0 98 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 577,0 99 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 585,0 100 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 329,0 102 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 379,0 104 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 385,0 105 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 705,0 106 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 615,0 107 0 
+DESIGN @summing_@module
+VIEW struct.bd
+GRAPHIC 593,0 108 0 
+DESIGN @summing_@module
+VIEW struct.bd
+NO_GRAPHIC 111

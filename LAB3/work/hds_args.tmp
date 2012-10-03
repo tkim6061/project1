@@ -1,0 +1,1 @@
+ -L LAB3 -L project1_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays LAB3.FA(struct)

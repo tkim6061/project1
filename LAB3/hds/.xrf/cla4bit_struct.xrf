@@ -1,0 +1,419 @@
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 62,0 14 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 82,0 15 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 87,0 16 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 92,0 17 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 97,0 18 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 102,0 19 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 107,0 20 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 112,0 21 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 117,0 22 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 157,0 23 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 142,0 24 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 147,0 25 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 122,0 26 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 127,0 27 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 132,0 28 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 137,0 29 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 1,0 32 0 
+DESIGN @c@l@a4bit
+VIEW symbol.sb
+GRAPHIC 1,0 33 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+NO_GRAPHIC 36
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 42,0 45 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 0,0 52 2 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 740,0 57 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 718,0 58 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 714,0 59 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 752,0 60 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 760,0 61 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 742,0 62 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 746,0 63 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 712,0 64 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 754,0 65 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 738,0 66 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 764,0 67 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+NO_GRAPHIC 68
+DESIGN @c@l@a4bit
+VIEW struct.bd
+NO_GRAPHIC 69
+LIBRARY LAB3
+DESIGN @a@n@dgate
+VIEW untitled
+GRAPHIC 1195,0 71 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+NO_GRAPHIC 76
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 988,0 78 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 127,0 80 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 67,0 81 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 72,0 82 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 77,0 83 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 82,0 84 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 92,0 85 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 97,0 86 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 102,0 87 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 107,0 88 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 52,0 89 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 57,0 90 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 62,0 91 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 122,0 92 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 87,0 93 0 
+DESIGN @c@l@alogic
+VIEW symbol.sb
+GRAPHIC 112,0 94 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 806,0 97 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 101,0 99 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 96,0 100 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 91,0 101 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 111,0 102 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 106,0 103 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 1366,0 106 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+NO_GRAPHIC 111
+LIBRARY LAB3
+DESIGN @c@l@a4bit
+VIEW struct.bd
+NO_GRAPHIC 113
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 1195,0 116 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 988,0 117 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 806,0 118 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 1366,0 119 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+NO_GRAPHIC 122
+DESIGN @c@l@a4bit
+VIEW struct.bd
+NO_GRAPHIC 124
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 1195,0 126 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 532,0 128 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 572,0 129 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 598,0 130 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 1216,0 132 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 512,0 134 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 582,0 135 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 690,0 136 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 1237,0 138 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 522,0 140 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 552,0 141 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 666,0 142 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 1589,0 144 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 562,0 146 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 502,0 147 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 652,0 148 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 988,0 150 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 548,0 152 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 666,0 153 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 690,0 154 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 598,0 155 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 652,0 156 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 700,0 157 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 656,0 158 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 708,0 159 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 704,0 160 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 648,0 161 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 618,0 162 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 630,0 163 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 634,0 164 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 644,0 165 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 626,0 166 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 806,0 168 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 660,0 170 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 694,0 171 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 630,0 172 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 676,0 174 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 835,0 176 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 638,0 178 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 670,0 179 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 618,0 180 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 602,0 182 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 864,0 184 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 606,0 186 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 612,0 187 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 648,0 188 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 622,0 190 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 893,0 192 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 680,0 194 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 592,0 195 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 542,0 196 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 686,0 198 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 1366,0 200 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 538,0 202 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 578,0 203 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 708,0 204 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 1387,0 206 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 518,0 208 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 588,0 209 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 656,0 210 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 1408,0 212 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 528,0 214 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 558,0 215 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 700,0 216 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 1610,0 218 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 568,0 220 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 508,0 221 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+GRAPHIC 704,0 222 0 
+DESIGN @c@l@a4bit
+VIEW struct.bd
+NO_GRAPHIC 225

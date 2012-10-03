@@ -1,0 +1,84 @@
+force \a 0 @0
+force \b 0 @0
+force \c 0 @0
+force \d 0 @0
+
+force \a 0 @10
+force \b 0 @10
+force \c 0 @10
+force \d 1 @10
+
+force \a 0 @20
+force \b 0 @20
+force \c 1 @20
+force \d 0 @20
+
+force \a 0 @30
+force \b 0 @30
+force \c 1 @30
+force \d 1 @30
+
+force \a 0 @40
+force \b 1 @40
+force \c 0 @40
+force \d 0 @40
+
+force \a 0 @50
+force \b 1 @50
+force \c 0 @50
+force \d 1 @50
+
+force \a 0 @60
+force \b 1 @60
+force \c 1 @60
+force \d 0 @60
+
+force \a 0 @70
+force \b 1 @70
+force \c 1 @70
+force \d 1 @70
+
+force \a 1 @80
+force \b 0 @80
+force \c 0 @80
+force \d 0 @80
+
+force \a 1 @90
+force \b 0 @90
+force \c 0 @90
+force \d 1 @90
+
+force \a 1 @100
+force \b 0 @100
+force \c 1 @100
+force \d 0 @100
+
+force \a 1 @110
+force \b 0 @110
+force \c 1 @110
+force \d 1 @110
+
+force \a 1 @120
+force \b 1 @120
+force \c 0 @120
+force \d 0 @120
+
+force \a 1 @130
+force \b 1 @130
+force \c 0 @130
+force \d 1 @130
+
+force \a 1 @140
+force \b 1 @140
+force \c 1 @140
+force \d 0 @140
+
+force \a 1 @150
+force \b 1 @150
+force \c 1 @150
+force \d 1 @150
+
+force \a 0 @160
+force \b 0 @160
+force \c 0 @160
+force \d 0 @160

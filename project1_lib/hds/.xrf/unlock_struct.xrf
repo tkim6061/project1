@@ -1,0 +1,137 @@
+DESIGN unlock
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 155,0 14 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 145,0 15 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 135,0 16 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 130,0 17 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 160,0 18 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 150,0 19 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 140,0 20 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 125,0 21 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 105,0 22 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 110,0 23 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 115,0 24 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 120,0 25 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 1,0 28 0 
+DESIGN unlock
+VIEW symbol.sb
+GRAPHIC 1,0 29 0 
+DESIGN unlock
+VIEW struct.bd
+NO_GRAPHIC 32
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 42,0 41 0 
+DESIGN unlock
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 0,0 48 2 
+DESIGN unlock
+VIEW struct.bd
+NO_GRAPHIC 53
+DESIGN unlock
+VIEW struct.bd
+NO_GRAPHIC 54
+LIBRARY LAB3
+DESIGN @x@o@rgate
+VIEW untitled
+GRAPHIC 94,0 56 0 
+DESIGN unlock
+VIEW struct.bd
+NO_GRAPHIC 61
+LIBRARY project1_lib
+DESIGN unlock
+VIEW struct.bd
+NO_GRAPHIC 63
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 94,0 66 0 
+DESIGN unlock
+VIEW struct.bd
+NO_GRAPHIC 69
+DESIGN unlock
+VIEW struct.bd
+NO_GRAPHIC 71
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 94,0 73 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 202,0 75 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 194,0 76 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 282,0 77 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 126,0 79 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 218,0 81 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 210,0 82 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 274,0 83 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 148,0 85 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 234,0 87 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 226,0 88 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 266,0 89 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 170,0 91 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 250,0 93 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 242,0 94 0 
+DESIGN unlock
+VIEW struct.bd
+GRAPHIC 258,0 95 0 
+DESIGN unlock
+VIEW struct.bd
+NO_GRAPHIC 98

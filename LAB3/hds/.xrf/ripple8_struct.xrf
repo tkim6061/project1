@@ -1,0 +1,242 @@
+DESIGN ripple8
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN ripple8
+VIEW symbol.sb
+GRAPHIC 50,0 11 0 
+DESIGN ripple8
+VIEW symbol.sb
+GRAPHIC 52,0 18 0 
+DESIGN ripple8
+VIEW symbol.sb
+GRAPHIC 57,0 19 0 
+DESIGN ripple8
+VIEW symbol.sb
+GRAPHIC 62,0 20 0 
+DESIGN ripple8
+VIEW symbol.sb
+GRAPHIC 67,0 21 0 
+DESIGN ripple8
+VIEW symbol.sb
+GRAPHIC 72,0 22 0 
+DESIGN ripple8
+VIEW symbol.sb
+GRAPHIC 1,0 25 0 
+DESIGN ripple8
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
+DESIGN ripple8
+VIEW struct.bd
+NO_GRAPHIC 30
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 42,0 39 0 
+DESIGN ripple8
+VIEW struct.bd
+NO_GRAPHIC 43
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 0,0 46 2 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 829,0 51 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 835,0 52 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 841,0 53 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 847,0 54 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 853,0 55 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 859,0 56 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 865,0 57 0 
+DESIGN ripple8
+VIEW struct.bd
+NO_GRAPHIC 58
+DESIGN ripple8
+VIEW struct.bd
+NO_GRAPHIC 59
+LIBRARY LAB3
+DESIGN @f@a
+VIEW struct.bd
+GRAPHIC 597,0 61 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 52,0 63 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 57,0 64 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 62,0 65 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 67,0 66 0 
+DESIGN @f@a
+VIEW symbol.sb
+GRAPHIC 72,0 67 0 
+LIBRARY LAB3
+DESIGN ripple8
+VIEW struct.bd
+NO_GRAPHIC 70
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 597,0 73 0 
+DESIGN ripple8
+VIEW struct.bd
+NO_GRAPHIC 76
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 597,0 79 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 433,0 81 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 427,0 82 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 361,0 83 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 831,0 84 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 523,0 85 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 626,0 87 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 445,0 89 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 439,0 90 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 831,0 91 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 837,0 92 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 529,0 93 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 655,0 95 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 457,0 97 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 451,0 98 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 837,0 99 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 843,0 100 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 535,0 101 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 684,0 103 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 469,0 105 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 463,0 106 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 843,0 107 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 849,0 108 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 541,0 109 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 713,0 111 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 481,0 113 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 475,0 114 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 849,0 115 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 855,0 116 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 547,0 117 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 742,0 119 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 493,0 121 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 487,0 122 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 855,0 123 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 861,0 124 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 553,0 125 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 771,0 127 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 505,0 129 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 499,0 130 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 861,0 131 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 867,0 132 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 559,0 133 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 800,0 135 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 517,0 137 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 511,0 138 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 867,0 139 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 421,0 140 0 
+DESIGN ripple8
+VIEW struct.bd
+GRAPHIC 565,0 141 0 
+DESIGN ripple8
+VIEW struct.bd
+NO_GRAPHIC 144

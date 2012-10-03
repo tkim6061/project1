@@ -1,0 +1,410 @@
+DESIGN final
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 83,0 14 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 154,0 15 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 159,0 16 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 164,0 17 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 169,0 18 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 174,0 19 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 179,0 20 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 224,0 21 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 229,0 22 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 234,0 23 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 239,0 24 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 244,0 25 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 249,0 26 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 254,0 27 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 259,0 28 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 264,0 29 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 269,0 30 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 184,0 31 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 189,0 32 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 194,0 33 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 199,0 34 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 204,0 35 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 209,0 36 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 214,0 37 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 219,0 38 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 274,0 39 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 284,0 40 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 279,0 41 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 1,0 44 0 
+DESIGN final
+VIEW symbol.sb
+GRAPHIC 1,0 45 0 
+DESIGN final
+VIEW struct.bd
+NO_GRAPHIC 48
+DESIGN final
+VIEW struct.bd
+GRAPHIC 41,0 57 0 
+DESIGN final
+VIEW struct.bd
+NO_GRAPHIC 60
+DESIGN final
+VIEW struct.bd
+GRAPHIC 0,0 63 2 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 400,0 68 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 362,0 69 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 368,0 70 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 374,0 71 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 380,0 72 0 
+DESIGN final
+VIEW struct.bd
+NO_GRAPHIC 73
+DESIGN final
+VIEW struct.bd
+NO_GRAPHIC 74
+LIBRARY project1_lib
+DESIGN channel_selection
+VIEW struct
+GRAPHIC 352,0 76 0 
+DESIGN channel_selection
+VIEW symbol.sb
+GRAPHIC 93,0 78 0 
+DESIGN channel_selection
+VIEW symbol.sb
+GRAPHIC 113,0 79 0 
+DESIGN channel_selection
+VIEW symbol.sb
+GRAPHIC 108,0 80 0 
+DESIGN channel_selection
+VIEW symbol.sb
+GRAPHIC 103,0 81 0 
+DESIGN channel_selection
+VIEW symbol.sb
+GRAPHIC 98,0 82 0 
+DESIGN channel_selection
+VIEW symbol.sb
+GRAPHIC 118,0 83 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 578,0 86 0 
+DESIGN receiver
+VIEW symbol.sb
+GRAPHIC 133,0 88 0 
+DESIGN receiver
+VIEW symbol.sb
+GRAPHIC 138,0 89 0 
+DESIGN receiver
+VIEW symbol.sb
+GRAPHIC 143,0 90 0 
+DESIGN receiver
+VIEW symbol.sb
+GRAPHIC 148,0 91 0 
+DESIGN receiver
+VIEW symbol.sb
+GRAPHIC 113,0 92 0 
+DESIGN receiver
+VIEW symbol.sb
+GRAPHIC 248,0 93 0 
+DESIGN receiver
+VIEW symbol.sb
+GRAPHIC 279,0 94 0 
+DESIGN receiver
+VIEW symbol.sb
+GRAPHIC 243,0 95 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 168,0 98 0 
+DESIGN transmitter
+VIEW symbol.sb
+GRAPHIC 99,0 100 0 
+DESIGN transmitter
+VIEW symbol.sb
+GRAPHIC 104,0 101 0 
+DESIGN transmitter
+VIEW symbol.sb
+GRAPHIC 109,0 102 0 
+DESIGN transmitter
+VIEW symbol.sb
+GRAPHIC 114,0 103 0 
+DESIGN transmitter
+VIEW symbol.sb
+GRAPHIC 119,0 104 0 
+DESIGN transmitter
+VIEW symbol.sb
+GRAPHIC 124,0 105 0 
+DESIGN transmitter
+VIEW symbol.sb
+GRAPHIC 129,0 106 0 
+DESIGN transmitter
+VIEW symbol.sb
+GRAPHIC 134,0 107 0 
+DESIGN transmitter
+VIEW symbol.sb
+GRAPHIC 139,0 108 0 
+DESIGN transmitter
+VIEW symbol.sb
+GRAPHIC 158,0 109 0 
+LIBRARY project1_lib
+DESIGN final
+VIEW struct.bd
+NO_GRAPHIC 112
+DESIGN final
+VIEW struct.bd
+GRAPHIC 352,0 115 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 578,0 116 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 168,0 117 0 
+DESIGN final
+VIEW struct.bd
+NO_GRAPHIC 120
+DESIGN final
+VIEW struct.bd
+NO_GRAPHIC 122
+DESIGN final
+VIEW struct.bd
+GRAPHIC 352,0 124 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 388,0 126 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 382,0 127 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 376,0 128 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 370,0 129 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 364,0 130 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 402,0 131 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 578,0 133 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 924,0 135 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 932,0 136 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 940,0 137 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 948,0 138 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 402,0 139 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1458,0 140 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1464,0 142 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 168,0 144 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 710,0 146 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 718,0 147 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 726,0 148 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 734,0 149 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1176,0 150 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1184,0 151 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1192,0 152 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1200,0 153 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1208,0 154 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 364,0 155 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 178,0 157 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 742,0 159 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 750,0 160 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 758,0 161 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 766,0 162 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1216,0 163 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1224,0 164 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1232,0 165 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1240,0 166 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1248,0 167 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 370,0 168 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 228,0 170 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 774,0 172 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 782,0 173 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 790,0 174 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 798,0 175 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1256,0 176 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1264,0 177 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1272,0 178 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1280,0 179 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1288,0 180 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 376,0 181 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 278,0 183 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 814,0 185 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 822,0 186 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 830,0 187 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 838,0 188 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1296,0 189 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1304,0 190 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1312,0 191 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1320,0 192 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 1328,0 193 0 
+DESIGN final
+VIEW struct.bd
+GRAPHIC 382,0 194 0 
+DESIGN final
+VIEW struct.bd
+NO_GRAPHIC 197

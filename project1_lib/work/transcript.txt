@@ -1,0 +1,74 @@
+# //  ModelSim SE 6.1c Nov 17 2005 Linux 2.6.32-220.23.1.el6.x86_64
+# //
+# //  Copyright Mentor Graphics Corporation 2005
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -L project1_lib -L LAB3 -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/fpgadv72-x86_64/Hds/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli /software/fpgadv72-x86_64/Hds/resources/downstream/modelsim/ModelSim_32Bit.dll project1_lib.final(struct) 
+# Loading /software/fpgadv72-x86_64/Hds/resources/downstream/modelsim/ModelSim_32Bit.dll
+# Loading /software/fpgadv72-x86_64/Modeltech/linux/../std.standard
+# Loading /software/fpgadv72-x86_64/Modeltech/linux/../ieee.std_logic_1164(body)
+# Loading /software/fpgadv72-x86_64/Modeltech/linux/../ieee.std_logic_arith(body)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.final(struct)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.channel_selection(struct)
+# Loading /software/fpgadv72-x86_64/Modeltech/linux/../ieee.numeric_std(body)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.receiver(struct)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.corrector(struct)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.orgate5(untitled)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.summing_module(struct)
+# Loading /home/kim705/ece290.work/project1/LAB3/work.fa(struct)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.andgate(untitled)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.orgate(untitled)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.xorgate(untitled)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.descrambler(struct)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.unlock(struct)
+# Loading /home/kim705/ece290.work/project1/LAB3/work.xorgate(untitled)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.transmitter(struct)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.encryption(struct)
+# Loading /home/kim705/ece290.work/project1/project1_lib/work.scrambler(struct)
+emacs finaltest.do
+add wave sim:/final/s
+add wave sim:/final/x0
+add wave sim:/final/x1
+add wave sim:/final/x2
+add wave sim:/final/x3
+add wave sim:/final/x4
+add wave sim:/final/dbus4
+emacs finaltest.do
+do finaltest.do
+run 40
+run 120
+# 0
+# 
+emacs finaltest.do
+do finaltest.do
+# ** Error: Time value must be greater than "now": 0
+# Error in macro ./finaltest.do line 1
+# Time value must be greater than "now": 0Time value must be greater than "now": 0
+#     while executing
+# "mti_force /x0 1 @0"
+#     invoked from within
+# "force /x0 1 @0"
+restart -f
+# Loading /software/fpgadv72-x86_64/Hds/resources/downstream/modelsim/ModelSim_32Bit.dll
+add wave sim:/final/s
+add wave sim:/final/x0
+add wave sim:/final/x1
+add wave sim:/final/x2
+add wave sim:/final/x3
+add wave sim:/final/x4
+add wave sim:/final/dbus4
+add wave sim:/final/ch_out
+do finaltest.do
+run 100
+# 0
+# 
+emacs finaltest.do
+restart
+# Loading /software/fpgadv72-x86_64/Hds/resources/downstream/modelsim/ModelSim_32Bit.dll
+do finaltest.do
+run 100

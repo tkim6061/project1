@@ -1,0 +1,20 @@
+[DesignChecker]
+LAB3 = $HDS_PROJECT_DIR/LAB3/designcheck
+[ModelSim]
+LAB3 = $HDS_PROJECT_DIR/LAB3/work
+project1_lib = $HDS_PROJECT_DIR/project1_lib/work
+[hdl]
+LAB3 = /home/kim705/ece290.work/lab3/LAB3/hdl
+project1_lib = $HDS_PROJECT_DIR/project1_lib/hdl
+[hds]
+LAB3 = $HDS_PROJECT_DIR/LAB3/hds
+project1_lib = $HDS_PROJECT_DIR/project1_lib/hds
+[hds_settings]
+default_library = project1_lib
+design_root = LAB3.CLA64bit()@c@l@a64bit/symbol.sb
+version = 1
+[library_type]
+LAB3 = regular
+project1_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

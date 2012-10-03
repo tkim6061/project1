@@ -1,0 +1,32 @@
+# vsim +typdelays -t ns -l transcript.txt -L CLA -L ieee -multisource_delay latest -i -foreign {hdsInit /rem_apps/solaris8/fpgadv52/Hds/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli /rem_apps/solaris8/fpgadv52/Hds/resources/downstream/modelsim/ModelSim_32Bit.dll CLA.ripple64(struct) 
+# Loading /rem_apps/solaris8/fpgadv52/Hds/resources/downstream/modelsim/ModelSim_32Bit.dll
+# //  ModelSim SE VHDL 5.5e Oct  1 2001 SunOS 5.8
+# //
+# //  Copyright (c) Mentor Graphics Corporation, 1982-2001, All Rights Reserved.
+# //                       UNPUBLISHED, LICENSED SOFTWARE.
+# //            CONFIDENTIAL AND PROPRIETARY INFORMATION WHICH IS THE
+# //          PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS.
+# //
+# //  Copyright (c) Model Technology Incorporated 1990-2001, All Rights Reserved.
+# //
+# Loading /apps/solaris8/fpgadv52/Modeltech/bin/../sunos5/../std.standard
+# Loading /apps/solaris8/fpgadv52/Modeltech/bin/../sunos5/../ieee.std_logic_1164(body)
+# Loading /apps/solaris8/fpgadv52/Modeltech/bin/../sunos5/../ieee.std_logic_arith(body)
+# Loading /work1/ece290/aknox/CLA/work.ripple64(struct)
+# Loading /work1/ece290/aknox/CLA/work.ripple8(struct)
+# Loading /apps/solaris8/fpgadv52/Modeltech/bin/../sunos5/../ieee.numeric_std(body)
+# Loading /work1/ece290/aknox/CLA/work.fa(struct)
+# Loading /work1/ece290/aknox/CLA/work.andgate(untitled)
+# Loading /work1/ece290/aknox/CLA/work.orgate(untitled)
+# Loading /work1/ece290/aknox/CLA/work.xorgate(untitled)
+# hds_anim_prefs 10000 0 0 
+view signals
+# .signals
+view wave
+# .wave
+do ripple64.do
+run 200
+run 200
+# The connection to HDS has been closed 
+destroy .wave
+destroy .signals
